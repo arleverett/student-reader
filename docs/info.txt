@@ -1,1 +1,6 @@
-dfg
+When running the code you are given 2 options
+1. sort students
+2. calculate TES
+
+For sort students drag and drop the test file called 'TPC_scaling_workbook_2020 ITD'
+For calulate TES drag and drop the test file called 'Format for java program TES'
